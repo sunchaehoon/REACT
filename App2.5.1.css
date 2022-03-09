@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.react {
+  background: aqua;
+  color: black;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 16px;
+}
